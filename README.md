@@ -1,4 +1,4 @@
-# Rust Parse Json
+# Rust Hello Input
 
 A simple app that ask the user for a name and prints `Hello` to that name.
 The app will change first lowercase latter to uppercase if needed.
